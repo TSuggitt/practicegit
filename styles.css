@@ -4,3 +4,7 @@ h1{
     font-size:20px;
     border: 1px black solid; 
 }
+
+p{
+    color:green;
+}
